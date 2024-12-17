@@ -49,5 +49,3 @@ I’m a passionate MERN Stack Developer with a strong enthusiasm for building ef
 
 <a href="https://github.com/vamsi-jagatha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-jagatha&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sri%20Hari%20Vamsi%20Jagatha&theme=github-dark-blue&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
