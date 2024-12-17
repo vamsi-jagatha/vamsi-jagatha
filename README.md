@@ -18,6 +18,7 @@ I’m a passionate MERN Stack Developer with a strong enthusiasm for building ef
                     
 ### Socials
 <p align="left">
+  
 <a href="https://www.github.com/vamsi-jagatha" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -25,6 +26,7 @@ I’m a passionate MERN Stack Developer with a strong enthusiasm for building ef
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture>
 </a>
+
 <a href="https://www.linkedin.com/in/vamsijagatha/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -32,6 +34,7 @@ I’m a passionate MERN Stack Developer with a strong enthusiasm for building ef
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a>
+
 <a href="https://www.x.com/srivamsijagatha" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
@@ -40,7 +43,9 @@ I’m a passionate MERN Stack Developer with a strong enthusiasm for building ef
 </picture>
 </a></p>
 
-<a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-stats.vercel.app/api?username=vamsi-jagatha&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="vamsi-jagatha's GitHub stats" /></a><a
-                      href="http://www.github.com/vamsi-jagatha"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-jagatha&stroke=ffffff&background=171717&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/vamsi-jagatha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-jagatha&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-stats.vercel.app/api?username=vamsi-jagatha&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="vamsi-jagatha's GitHub stats" /></a>
+
+<a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-jagatha&stroke=ffffff&background=171717&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/vamsi-jagatha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-jagatha&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
