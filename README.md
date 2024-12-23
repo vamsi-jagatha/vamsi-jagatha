@@ -37,7 +37,6 @@ I’m a passionate MERN Stack Developer with a strong enthusiasm for building ef
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
 </div>
-
 <br/>
 </p>
       
