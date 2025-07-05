@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sri Hari Vamsi Jagatha
 ==============================================================================================================================================
 
-MERN Stack Developer
+
 --------------------
 
-I’m a passionate MERN Stack Developer with a strong enthusiasm for building efficient, and user-friendly applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in crafting modern web applications that deliver seamless user experiences and robust backend solutions. I'm a lifelong learner who stays updated with the technologies. Whether it's exploring new features of React, optimizing backend performance, or experimenting with emerging technologies, I always strive to enhance my skill set and bring more value to the projects I work on. If you're looking for someone who can turn ideas into high-quality, scalable applications with a strong focus on clean code and performance, let’s connect—I’d love to collaborate and bring your vision to life!
+
 
 *   🌍  I'm based in India - (kakinada)
 *   ✉️  You can contact me at [vamsijagatha123@gmail.com](mailto:vamsijagatha123@gmail.com)
