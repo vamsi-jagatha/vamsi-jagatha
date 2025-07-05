@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in India - (kakinada)
 *   ✉️  You can contact me at [vamsijagatha123@gmail.com](mailto:vamsijagatha123@gmail.com)
-*   🧠  I'm learning larvel
+*   🧠  I'm learning laravel
 *   🤝  I'm open to collaborating on building scalable web applications that solve real-world problems and deliver exceptional user experiences
 *   ⚡  When I’m not developing, you can find me: Reading about tech innovations, startups, and best coding practices.
 
