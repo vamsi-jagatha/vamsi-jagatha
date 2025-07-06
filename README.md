@@ -34,7 +34,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,php,laravel" /><br>
 </div>
 <br/>
 </p>
