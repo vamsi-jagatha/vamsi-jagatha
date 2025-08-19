@@ -33,7 +33,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2 align="left">🔱 Languages-Frameworks-Tools 🔱</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss,vscode,figma,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss,vscode,figma" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,php,laravel" /><br>
 </div>
 <br/>
