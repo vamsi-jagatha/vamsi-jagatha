@@ -41,10 +41,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       
 
 
-<a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-stats.vercel.app/api?username=vamsi-jagatha&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="vamsi-jagatha's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-stats.vercel.app/api?username=vamsi-jagatha&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="vamsi-jagatha's GitHub stats" /></a>
 
-<a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-jagatha&stroke=ffffff&background=171717&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vamsi-jagatha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-jagatha&stroke=ffffff&background=171717&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vamsi-jagatha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vamsi-jagatha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-jagatha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=vamsi-jagatha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  
